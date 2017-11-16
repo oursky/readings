@@ -11,6 +11,8 @@ You can find more about Oursky at:
 [Twitter](https://twitter.com/oursky) /
 [GitHub][Oursky organization]
 
+Read our writings at [Medium](https://m.oursky.com).
+
 About Skygear:
 [Skygear.io](https://skygear.io) /
 [GitHub](https://github.com/skygearIO)
