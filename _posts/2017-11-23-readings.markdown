@@ -27,7 +27,7 @@ This week's reading:
 
 [Service Workers: an Introduction]:https://developers.google.com/web/fundamentals/primers/service-workers/
 
-[User experience design for APIs]:https://blog.keras.io/user-experience-design-for-apis.html -
+[User experience design for APIs]:https://blog.keras.io/user-experience-design-for-apis.html
 
 [Why Functional Programming Matters]:https://www.youtube.com/watch?v=oB8jN68KGcU
 
