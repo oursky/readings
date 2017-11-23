@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Weekly Readings - 23 Nov 2017 "
+date:   2017-11-23 16:09:20 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Passages
+* [Service Workers: an Introduction][Service Workers: an Introduction] - How does JavaScript Service Work and how it empowers your web app?
+* [User experience design for APIs][User experience design for APIs] - It's only when you start sitting down next to your users and watch them struggle with your API that you start to realize that UX matters
+* [Getting Started With CSS Math Functions][Getting Started With CSS Math Functions]
+
+### Slides
+* [PostgreSQL Configuration for Humans][PostgreSQL Configuration for Humans] - Some PostgreSQL config are ADVANCED. Let's learn some important ones out of them.
+
+### Videos
+
+* [Why Functional Programming Matters (Video)][Why Functional Programming Matters]
+* [SVG CAN DO THAT?! (Video)][SVG CAN DO THAT?!]
+
+
+[PostgreSQL Configuration for Humans]:https://speakerdeck.com/ongres/postgresql-configuration-for-humans
+
+[Service Workers: an Introduction]:https://developers.google.com/web/fundamentals/primers/service-workers/
+
+[User experience design for APIs]:https://blog.keras.io/user-experience-design-for-apis.html -
+
+[Why Functional Programming Matters]:https://www.youtube.com/watch?v=oB8jN68KGcU
+
+[SVG CAN DO THAT?!]:https://www.youtube.com/watch?v=dv2TvTXQ4FQ
+
+[Getting Started With CSS Math Functions]:https://webdesign.tutsplus.com/tutorials/mathematical-expressions-calc-min-and-max--cms-29735
