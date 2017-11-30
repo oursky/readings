@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Readings - 23 Nov 2017 "
+title:  "Weekly Readings - 23 Nov 2017"
 date:   2017-11-23 16:09:20 +0800
 categories: weekly readings
 ---
