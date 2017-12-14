@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Weekly Readings - 14 Dec 2017"
+date:   2017-12-14 16:59:39 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Internet
+* [Internet protocols are changing][Internet protocols are changing]
+
+# Principle 
+* [Principles of Calm Technology][Principles of Calm Technology]
+* [What Makes A Great Software Engineer?][What Makes A Great Software Engineer?]
+
+### Technical and theories
+* [Why Google stores billions of lines of code in a single repository][Why Google stores billions of lines of code in a single repository]
+* [Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to][Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to]
+* [Game Theory (Open Access textbook with 165 solved exercises)][Game Theory (Open Access textbook with 165 solved exercises)]
+
+
+[Internet protocols are changing]:https://blog.apnic.net/2017/12/12/internet-protocols-changing/
+[Principles of Calm Technology]:https://principles.design/examples/principles-of-calm-technology
+[Why Google stores billions of lines of code in a single repository]:https://dl.acm.org/citation.cfm?id=2854146
+[What Makes A Great Software Engineer?]:https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf
+[Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to]:https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g168a3288f7_0_58
+[Game Theory (Open Access textbook with 165 solved exercises)]:https://arxiv.org/abs/1512.06808
