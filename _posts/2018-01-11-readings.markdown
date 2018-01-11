@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Weekly Readings - 11 Jan 2018"
+date:   2018-01-11 16:12:44 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Programming
+* [Swift tips & tricks - JohnSundell][Swift tips & tricks - JohnSundell]
+* [Typical Programmer - What does code readability mean?][Typical Programmer - What does code readability mean?]
+
+### Machine Learning
+* [Machine Learning Google Street View -> Ambient Sound][Machine Learning Google Street View -> Ambient Sound]
+* [30 Amazing Machine Learning Projects for the Past Year (2018)][30 Amazing Machine Learning Projects for the Past Year (2018)]
+* [The Basic Ideas in Neural Networks (1994)][The Basic Ideas in Neural Networks (1994)]
+
+### Game development
+
+* [Game Engine Architure Lectures][Game Engine Architure Lectures]
+
+[Swift tips & tricks - JohnSundell]:https://github.com/johnsundell/swifttips
+[Typical Programmer - What does code readability mean?]:http://typicalprogrammer.com/what-does-code-readability-mean
+[Machine Learning Google Street View -> Ambient Sound]:http://shiropen.com/2018/01/11/31412
+[30 Amazing Machine Learning Projects for the Past Year (2018)]:https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7?gi=6a14c87bef22
+[The Basic Ideas in Neural Networks (1994)]:http://www-isl.stanford.edu/~widrow/papers/j1994thebasic.pdf
+[Game Engine Architure Lectures]:http://nikoladimitroff.github.io/Game-Engine-Architecture/
