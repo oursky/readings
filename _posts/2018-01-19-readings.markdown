@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Weekly Readings - 19 Jan 2018"
+date:   2018-01-19 15:32:12 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Developers
+* [Being a lead Developer][Being a lead Developer]
+* [Why code that never goes wrong can still be wrong][Why code that never goes wrong can still be wrong]
+
+### Web Development
+
+* [DNS over HTTPS][DNS over HTTPS]
+* [Write secure JavaScript][Write secure JavaScript] (Video)
+* [CSS Grid explained in 7 minutes][CSS Grid explained in 7 minutes] (Video)
+
+[Being a lead Developer]:https://exceptionnotfound.net/being-a-better-lead-developer/
+[Why code that never goes wrong can still be wrong]:http://www.pathsensitive.com/2018/01/the-three-levels-of-software-why-code.html
+[DNS over HTTPS]:https://github.com/curl/curl/wiki/DNS-over-HTTPS
+[Write secure JavaScript]:https://www.youtube.com/watch?v=lNk9Ami4Zls
+[CSS Grid explained in 7 minutes]:https://www.youtube.com/watch?v=ojKbYz0iKQE
