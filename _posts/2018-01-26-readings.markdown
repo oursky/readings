@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Weekly Readings - 26 Jan 2018"
+date:   2018-01-26 16:45:39 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Machine Learning
+* [Machine Learning and Human Bias][Machine Learning and Human Bias] (Video)
+
+### UI
+* [Laws of UX][Laws of UX]
+
+### Programming
+* [How I review code][How I review code]
+* [Why is Rust difficult?][Why is Rust difficult?]
+* [The Ultimate Guide to JavaScript Frameworks][The Ultimate Guide to JavaScript Frameworks]
+
+
+[Machine Learning and Human Bias]:https://www.youtube.com/watch?v=59bMh59JQDo
+[How I review code]:https://engineering.tumblr.com/post/170040992289/how-i-review-code
+[Laws of UX]:https://lawsofux.com/
+[Why is Rust difficult?]:https://vorner.github.io/difficult.html
+[The Ultimate Guide to JavaScript Frameworks]:https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/
