@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Weekly Readings - 1 Feb 2018"
+date:   2018-02-01 15:14:26 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Programming
+* [Caire - a content aware image resize library][Caire - a content aware image resize library]
+* [Server-Side Swift from Scratch][Server-Side Swift from Scratch]
+
+### Kubernetes
+* [Your instant Kubernetes cluster in 10 minutes][Your instant Kubernetes cluster in 10 minutes]
+
+### Software Engineering
+* [Evolutionary Architecture][Evolutionary Architecture]
+* [Building for Failure: Learning lessons from aviation by Andrew Godwin][Building for Failure: Learning lessons from aviation by Andrew Godwin]
+
+
+[Evolutionary Architecture]:https://codeburst.io/evolutionary-architecture-27dae14b323d
+[Caire - a content aware image resize library]:https://github.com/esimov/caire
+[Server-Side Swift from Scratch]:https://www.skilled.io/u/swiftsummit/server-side-swift-from-scratch
+[Your instant Kubernetes cluster in 10 minutes]:https://blog.alexellis.io/your-instant-kubernetes-cluster/
+[Building for Failure: Learning lessons from aviation by Andrew Godwin]:https://speakerdeck.com/andrewgodwin/building-for-failure-learning-lessons-from-aviation
