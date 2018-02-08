@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Weekly Readings - 8 Feb 2018"
+date:   2018-02-08 13:09:45 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Programming
+* [What is Pure Function?][What is Pure Function?]
+
+### Android
+* [Android KTX: Kolint Extension to make Development for Android Sweeter][Android KTX: Kolint Extension to make Development for Android Sweeter]
+
+### CSS
+* [Explaining BEM CSS Convention to a 5 year Old][Explaining BEM CSS Convention to a 5 year Old]
+
+### Cloud
+* [CloudKit: Structured Storage for Mobile Applications][CloudKit: Structured Storage for Mobile Applications]
+
+### Kubernetes
+* [Kubernetes The Hard Way][Kubernetes The Hard Way]
+
+
+[Kubernetes The Hard Way]:https://github.com/kelseyhightower/kubernetes-the-hard-way
+[Android KTX: Kolint Extension to make Development for Android Sweeter]:https://android-developers.googleblog.com/2018/02/introducing-android-ktx-even-sweeter.html
+[Explaining BEM CSS Convention to a 5 year Old]:https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849
+[CloudKit: Structured Storage for Mobile Applications]:http://www.vldb.org/pvldb/vol11/p540-shraer.pdf
+[What is Pure Function?]:https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
