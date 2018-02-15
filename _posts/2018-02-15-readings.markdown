@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Weekly Readings - 15 Feb 2018"
+date:   2018-02-15 14:29:53 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Software 
+* [Discovering Types for Entity Disambiguation][Discovering Types for Entity Disambiguation]
+* [So you think you can validate email addresses A journey down RFC5321][So you think you can validate email addresses A journey down RFC5321] (Video)
+* [Let’s talk about usernames][Let’s talk about usernames]
+* [Appropriate Uses For SQLite][Appropriate Uses For SQLite]
+
+### Augmented Reality
+* [Jerome Etienne: How To Do Augmented Reality On The Web][Jerome Etienne: How To Do Augmented Reality On The Web]
+
+### Machine Learning
+* [Background removal with deep learning][Background removal with deep learning]
+
+
+[Discovering Types for Entity Disambiguation]:https://blog.openai.com/discovering-types-for-entity-disambiguation/
+[So you think you can validate email addresses A journey down RFC5321]:https://www.youtube.com/watch?v=xxX81WmXjPg&ab_channel=FOSDEM
+[Let’s talk about usernames]:https://www.b-list.org/weblog/2018/feb/11/usernames/
+[Appropriate Uses For SQLite]:https://sqlite.org/whentouse.html
+[Jerome Etienne: How To Do Augmented Reality On The Web]:https://www.youtube.com/watch?v=NBrM7YVznzk
+[Background removal with deep learning]:https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157
