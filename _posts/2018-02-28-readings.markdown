@@ -10,16 +10,16 @@ categories: weekly readings
 This week's reading:
 
 ### Software 
-[Bad Software Architecture is a People Problem][Bad Software Architecture is a People Problem]
-[Offline First][Offline First]
+* [Bad Software Architecture is a People Problem][Bad Software Architecture is a People Problem]
+* [Offline First][Offline First]
 
 ### DevOps
-[Containers Patterns][Containers Patterns]
+* [Containers Patterns][Containers Patterns]
 
 
 ### Interesting Bits
-[How to think in graphs: An illustrative introduction to Graph Theory and its applications][How to think in graphs: An illustrative introduction to Graph Theory and its applications]
-[How does `cd` work?][How does `cd` work?]
+* [How to think in graphs: An illustrative introduction to Graph Theory and its applications][How to think in graphs: An illustrative introduction to Graph Theory and its applications]
+* [How does `cd` work?][How does `cd` work?]
 
 
 [Bad Software Architecture is a People Problem]:https://queue.acm.org/detail.cfm?id=2974011
