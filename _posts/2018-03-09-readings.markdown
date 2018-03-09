@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Weekly Readings - 08 Mar 2018"
+date:   2018-03-08 15:37:43 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Kubernetes
+* [Comparing managed Kubernetes by industry’s top cloud providers (GKE vs AKS vs EKS)][Comparing managed Kubernetes by industry’s top cloud providers (GKE vs AKS vs EKS)]
+
+### Web developmemt
+* [Beyond React 16: time slicing & suspense][Beyond React 16: time slicing & suspense]
+* [How to make responsiveness super simple with CSS Variables][How to make responsiveness super simple with CSS Variables]
+
+### Others
+* [One more step for Apple to cut support of Objective-C.][One more step for Apple to cut support of Objective-C.]
+* [Why I hate all articles about design patterns][Why I hate all articles about design patterns]
+
+
+[Comparing managed Kubernetes by industry’s top cloud providers (GKE vs AKS vs EKS)]:https://blog.hasura.io/gke-vs-aks-vs-eks-411f080640dc
+[Why I hate all articles about design patterns]:http://www.smashcompany.com/technology/why-i-hate-all-articles-about-design-patterns
+[Beyond React 16: time slicing & suspense]:https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html
+[One more step for Apple to cut support of Objective-C.]:https://github.com/apple/swift-evolution/blob/master/proposals/0160-objc-inference.md
+[How to make responsiveness super simple with CSS Variables]:https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f
