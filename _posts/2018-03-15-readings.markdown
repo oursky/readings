@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Weekly Readings - 15 Mar 2018"
+date:   2018-03-15 14:43:39 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Web
+* [Making charts easy with tui-chart][Making charts easy with tui-chart]
+* [Go Fast or Go Home: The Process of Optimizing for Client Performance][Go Fast or Go Home: The Process of Optimizing for Client Performance]
+
+### Software
+* [How to avoid humiliating newcomers: A guide for advanced developers][How to avoid humiliating newcomers: A guide for advanced developers]
+* [“We don’t need a designer for this.” (Yes, you do.)][“We don’t need a designer for this.” (Yes, you do.)]
+
+### Database
+* [Why Is SQLite Coded In C][Why Is SQLite Coded In C]
+
+[Making charts easy with tui-chart]:http://ui.toast.com/tui-chart/
+[Go Fast or Go Home: The Process of Optimizing for Client Performance]:https://techblog.expedia.com/2018/03/09/go-fast-or-go-home-the-process-of-optimizing-for-client-performance/
+[How to avoid humiliating newcomers: A guide for advanced developers]:https://opensource.com/article/18/3/avoid-humiliating-newcomers
+[“We don’t need a designer for this.” (Yes, you do.)]:https://blog.carbonfive.com/2018/03/05/we-dont-need-a-designer-for-this-yes-you-do/
+[Why Is SQLite Coded In C]:https://sqlite.org/whyc.html
