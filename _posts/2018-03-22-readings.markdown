@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Weekly Readings - 22 Mar 2018"
+date:   2018-03-22 13:12:01 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Programming
+* [Go best practices, six years in][Go best practices, six years in]
+* [Egoless Programming][Egoless Programming]
+* [Server Side Swift - Event driven networking for Swift][Server Side Swift - Event driven networking for Swift]
+* [Vue Design System][Vue Design System]
+
+# Machine Learning
+* [Using Deep Learning to improve FIFA 18 graphics][Using Deep Learning to improve FIFA 18 graphics]
+
+[Go best practices, six years in]:https://peter.bourgon.org/go-best-practices-2016/
+[Egoless Programming]:http://hangaroundtheweb.com/2018/03/egoless-programming/
+[Vue Design System]:https://vueds.com/example/
+[Using Deep Learning to improve FIFA 18 graphics]:https://towardsdatascience.com/using-deep-learning-to-improve-fifa-18-graphics-529ec44ea37e
+[Server Side Swift - Event driven networking for Swift]:https://www.youtube.com/watch?v=QJ3WG9kRLMo
