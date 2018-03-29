@@ -15,7 +15,7 @@ This week's reading:
 * [Server Side Swift - Event driven networking for Swift][Server Side Swift - Event driven networking for Swift]
 * [Vue Design System][Vue Design System]
 
-# Machine Learning
+### Machine Learning
 * [Using Deep Learning to improve FIFA 18 graphics][Using Deep Learning to improve FIFA 18 graphics]
 
 [Go best practices, six years in]:https://peter.bourgon.org/go-best-practices-2016/
