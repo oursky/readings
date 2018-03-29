@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Weekly Readings - 29 Mar 2018"
+date:   2018-03-29 16:25:34 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Programming
+[Run less software][Run less software]
+[500+ Data Structure and Algorithms problems][500+ Data Structure and Algorithms problems]
+
+### Good tools
+[Fred's ImageMagick Scripts - useful imagemagik scripts][Fred's ImageMagick Scripts - useful imagemagik scripts]
+[This page loaded in X seconds][This page loaded in X seconds]
+
+
+### Machine Learning
+* [World Models - Can agents learn inside of their own dreams?][World Models - Can agents learn inside of their own dreams?]
+* [Neural Networks in Kotlin][Neural Networks in Kotlin]
+* [Google DeepMind Text-to-Speech API][Google DeepMind Text-to-Speech API]
+
+
+[World Models - Can agents learn inside of their own dreams?]:https://worldmodels.github.io/
+[Neural Networks in Kotlin]:https://github.com/kennycason/neural_network_kotlin/blob/master/README.md#webcam-learning
+[Google DeepMind Text-to-Speech API]:https://cloud.google.com/text-to-speech/
+[Run less software]:https://blog.intercom.com/run-less-software/
+[Fred's ImageMagick Scripts - useful imagemagik scripts]:http://www.fmwconcepts.com/imagemagick/
+[500+ Data Structure and Algorithms problems]:http://www.techiedelight.com/list-of-problems/
+[This page loaded in X seconds]:http://www.phpied.com/this-page-loaded-in-x-seconds/
