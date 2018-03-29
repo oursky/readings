@@ -10,12 +10,12 @@ categories: weekly readings
 This week's reading:
 
 ### Programming
-[Run less software][Run less software]
-[500+ Data Structure and Algorithms problems][500+ Data Structure and Algorithms problems]
+* [Run less software][Run less software]
+* [500+ Data Structure and Algorithms problems][500+ Data Structure and Algorithms problems]
 
 ### Good tools
-[Fred's ImageMagick Scripts - useful imagemagik scripts][Fred's ImageMagick Scripts - useful imagemagik scripts]
-[This page loaded in X seconds][This page loaded in X seconds]
+* [Fred's ImageMagick Scripts - useful imagemagik scripts][Fred's ImageMagick Scripts - useful imagemagik scripts]
+* [This page loaded in X seconds][This page loaded in X seconds]
 
 
 ### Machine Learning
