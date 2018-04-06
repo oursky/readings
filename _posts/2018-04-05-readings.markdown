@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Weekly Readings - 05 Apr 2018"
+date:   2018-04-05 16:31:11 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Programming
+* [The secret life of NaN][The secret life of NaN]
+* [Organizational Skills Beat Algorithmic Wizardry][Organizational Skills Beat Algorithmic Wizardry]
+* [React - Basic Theoretical Concepts][React - Basic Theoretical Concepts]
+
+### Serverless
+* [The power of serverless for front-end developers][The power of serverless for front-end developers]
+
+### Kubernetes
+* [Kubernetes at GitHub][Kubernetes at GitHub]
+* [Kubernetes Security - Best Practice Guide][Kubernetes Security - Best Practice Guide]
+
+[The secret life of NaN]:https://anniecherkaev.com/the-secret-life-of-nan
+[Kubernetes at GitHub]:https://githubengineering.com/kubernetes-at-github/
+[The power of serverless for front-end developers]:https://thepowerofserverless.info/
+[Organizational Skills Beat Algorithmic Wizardry]:http://prog21.dadgum.com/177.html
+[Kubernetes Security - Best Practice Guide]:https://github.com/freach/kubernetes-security-best-practice
+[React - Basic Theoretical Concepts]:https://github.com/reactjs/react-basic
