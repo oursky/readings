@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Weekly Readings - 13 Apr 2018"
+date:   2018-04-13 17:19:33 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Software Engineering
+* [Falsehoods Programmers Believe About CSVs][Falsehoods Programmers Believe About CSVs]
+* [Build real-world games with Google Maps APIs][Build real-world games with Google Maps APIs]
+* [Why SQLite Does Not Use Git][Why SQLite Does Not Use Git]
+
+### Machine Learning
+* [Now you can run Tensorflow using JS][Now you can run Tensorflow using JS]
+
+### UI
+* [Good to great UI animation tips][Good to great UI animation tips]
+
+
+[Build real-world games with Google Maps APIs]:https://www.youtube.com/watch?v=QC51FEF0JeY
+[Good to great UI animation tips]:https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5
+[Now you can run Tensorflow using JS]:https://js.tensorflow.org/
+[Falsehoods Programmers Believe About CSVs]:https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs
+[Why SQLite Does Not Use Git]:https://sqlite.org/whynotgit.html
