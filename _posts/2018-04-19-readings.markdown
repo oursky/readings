@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Weekly Readings - 19 Apr 2018"
+date:   2018-04-19 15:06:56 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Software Engineering
+* [Why does "=" mean 1?][Why does "=" mean 1?]
+* [Distributed architecture concepts I learned while building a large payments system][Distributed architecture concepts I learned while building a large payments system]
+* [Deliver software faster by managing work in progress, not by adding overtime][Deliver software faster by managing work in progress, not by adding overtime]
+
+### Machine Learning
+* [Making AR more precise with CoreML][Making AR more precise with CoreML]
+
+### UI and UX Design
+* [Front-end design checklist for developers][Front-end design checklist for developers]
+* [CUI (Conversational UI) and Why It Matters][CUI (Conversational UI) and Why It Matters]
+
+
+[Making AR more precise with CoreML]:https://blog.novoda.com/arkit-coreml/
+[CUI (Conversational UI) and Why It Matters]:https://developers.google.com/actions/design/
+[Distributed architecture concepts I learned while building a large payments system]:http://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/
+[Why does "=" mean 1?]:https://www.hillelwayne.com/post/equals-as-assignment/
+[Front-end design checklist for developers]:https://github.com/thedaviddias/Front-End-Design-Checklist
+[Deliver software faster by managing work in progress, not by adding overtime]:https://developers.soundcloud.com/blog/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime
