@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Weekly Readings - 26 Apr 2018"
+date:   2018-04-26 17:18:41 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+### Programming
+* ["Propositions as Types" by Philip Wadler]["Propositions as Types" by Philip Wadler]
+* [The Mistakes I Made As a Beginner Programmer][The Mistakes I Made As a Beginner Programmer]
+* [Rich Hickey on becoming a better developer][Rich Hickey on becoming a better developer]
+
+### GPS
+* [Rethinking GPS: Engineering Next-Gen Location at Uber][Rethinking GPS: Engineering Next-Gen Location at Uber]
+
+### Web
+* [How does modern browsers work][How does modern browsers work]
+* [Designing very large (JavaScript) applications][Designing very large (JavaScript) applications]
+* [A more privacy-friendly blog][A more privacy-friendly blog]
+
+
+["Propositions as Types" by Philip Wadler]:https://www.youtube.com/watch?v=IOiZatlZtGU
+[A more privacy-friendly blog]:https://vincent.bernat.im/en/blog/2018-more-privacy-blog
+[The Mistakes I Made As a Beginner Programmer]:https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
+[How facial recognition works]:https://multimedia.scmp.com/widgets/tech/facial-recognition/index.html
+[Rich Hickey on becoming a better developer]:https://gist.github.com/prakhar1989/1b0a2c9849b2e1e912fb
+[Rethinking GPS: Engineering Next-Gen Location at Uber]:https://eng.uber.com/rethinking-gps/
+[How does modern browsers work]:https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+[Designing very large (JavaScript) applications]:https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3
+
