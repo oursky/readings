@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Weekly Readings - 10 May 2018"
+date:   2018-05-10 15:23:56 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+* [Conversations with a six-year-old on functional programming][Conversations with a six-year-old on functional programming]
+* [Programming is a pop culture and what we should do about it][Programming is a pop culture and what we should do about it]
+* [The logical disaster of NULL][The logical disaster of NULL]
+* [(Slides)The GraphQL Way: A new path for JSON APIs][(Slides)The GraphQL Way: A new path for JSON APIs]
+
+[Conversations with a six-year-old on functional programming]:https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/
+[Programming is a pop culture and what we should do about it]:https://lispcast.com/programming-pop-culture/
+[The logical disaster of NULL]:https://rob.conery.io/2018/05/01/the-logical-disaster-of-null/
+[(Slides)The GraphQL Way: A new path for JSON APIs]:https://speakerdeck.com/qrush/the-graphql-way-a-new-path-for-json-apis
