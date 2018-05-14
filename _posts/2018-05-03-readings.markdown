@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Weekly Readings - 03 May 2018"
+date:   2018-05-03 12:11:21 +0800
+categories: weekly readings
+---
+
+  ![]({{ "/assets/img/1.png" | absolute_url }})
+
+This week's reading:
+
+* [You’re Practically a Mac Developer][You’re Practically a Mac Developer]
+* [100 prisoners problem][100 prisoners problem]
+* [Python startup time][Python startup time]
+* [Introducing Swift For TensorFlow][Introducing Swift For TensorFlow]
+
+[You’re Practically a Mac Developer]:http://inessential.com/2018/04/25/youre_practically_a_mac_developer
+[100 prisoners problem]:https://en.wikipedia.org/wiki/100_prisoners_problem
+[Python startup time]:https://mail.python.org/pipermail/python-dev/2018-May/153296.html
+[Introducing Swift For TensorFlow]:https://medium.com/tensorflow/introducing-swift-for-tensorflow-b75722c58df0
